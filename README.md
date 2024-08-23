@@ -1,13 +1,15 @@
 # STM32_Startup_Notes
 This repository is mainly for understanding the STM32 board & how to use it, (IDE etc.).
 
-# What is the STM32 board?
-
+# STM32
+## What is the STM32 board:
 The STM32 is a branch of 32-bit microcontroller board that are based on the ARM Cortex-M architecture(more about this on another section). 
+STM32 is a popular board choice in embedded systems applications, due to their high performace, power efficiency and widr range of features.
+The STM32 series is divided isnt multible sub-branches, each targeting different application requirements.
 
+## 
 
-
-# ARM Cortex-M architecture
+# ARM Cortex-M
 
 ## Purpose and Design:
 * The Cortex-M series was build to be cost-sensitive, energy-efficient for embedded applications.
