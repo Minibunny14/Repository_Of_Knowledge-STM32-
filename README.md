@@ -31,9 +31,10 @@ The STM32 has different neucleo boards, this includes the F-0 and F-4 series, th
 
 
 ## Registers and Memory:
-Like most processors, the Cortex-M processors have a simple register structure, with 16 registers(including general purpose registers (R0-R12)). The Link Register(LR), the Program Counter(Counter) and a Stack Pointer(SP).
+Like most processors, the Cortex-M processors have a simple register structure, with 16 registers(including general purpose registers (R0-R12)). The Link Register(LR), the Program Counter(Counter) and a Stack Pointer(SP). Registers are storage locations that hold data or memory addresses.
 ### Link Register:
-
+The link register is used for holding the return address when calling a function or subroutine(Assembly).
 ### Program Counter: 
-
+The Program Counter is used to track the memory address of the next intruction to be executed in a program. Essentially, this could be thought of as the different steps in a recipe.
 ### Stack Pointer:
+The Stack Pointer is used to store the memory address of the last data element added to the stack or, the first available address in the stack.
