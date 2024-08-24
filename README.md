@@ -16,7 +16,6 @@ The STM32 series is divided isnt multible sub-branches, each targeting different
 The Nucleo board is a development board series that is created by the same 
 
 # ARM Cortex-M
-[comment]: <> (Add information about the nucleo board)
 
 ## Purpose and Design:
 * The Cortex-M series was build to be cost-sensitive, energy-efficient for embedded applications.
