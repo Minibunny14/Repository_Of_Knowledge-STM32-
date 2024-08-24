@@ -7,9 +7,16 @@ The STM32 is a branch of 32-bit microcontroller board that are based on the ARM 
 STM32 is a popular board choice in embedded systems applications, due to their high performace, power efficiency and widr range of features.
 The STM32 series is divided isnt multible sub-branches, each targeting different application requirements.
 
-## 
+## Features:
+1. STM32 boards are based on the ARM Cortex-M processor.
+2. Peripherals: They offer various built-in peripherals such as ADC's, DAC's, timers, communication interfaces such as (UART, SPI, I2C, CAN) etc.
+3. Development enviroment: STMicroelectronics provides a decent development environment, including IDE's such as STM32CubeIDE, firmware libraries.
+
+# Nucleo Board
+The Nucleo board is a development board series that is created by the same 
 
 # ARM Cortex-M
+[comment]: <> (Add information about the nucleo board)
 
 ## Purpose and Design:
 * The Cortex-M series was build to be cost-sensitive, energy-efficient for embedded applications.
@@ -28,7 +35,7 @@ The STM32 has different neucleo boards, this includes the F-0 and F-4 series, th
 ### Cortex-M3
 * Optimisation done to provide a balance between performace and power effeciency, its often used in more complex embedded applications.
 ### Cortex-M4
-* Here is where Digital Signal Processing instructions is added, which is useful for audio processing(signal sampling etc.), motor control and more. Essentially this would be used mainly for robotics, mechatronics etc.
+* Here is where Digital Signal Processing (DSP) instructions is added, which is useful for audio processing(signal sampling etc.), motor control and more. Essentially this would be used mainly for robotics, mechatronics etc.
 
 
 
