@@ -2,8 +2,8 @@
 This repository is mainly for understanding the STM32 board & how to use it, (IDE etc.).
 
 # STM32
-## What is the STM32 board:
-The STM32 is a branch of 32-bit microcontroller board that are based on the ARM Cortex-M architecture(more about this on another section). 
+## What is an STM32:
+The STM32 is a variant of the 32-bit microcontroller's that are based on the ARM Cortex-M architecture(more about this on another section). 
 STM32 is a popular board choice in embedded systems applications, due to their high performace, power efficiency and widr range of features.
 The STM32 series is divided isnt multible sub-branches, each targeting different application requirements.
 
@@ -13,7 +13,13 @@ The STM32 series is divided isnt multible sub-branches, each targeting different
 3. Development enviroment: STMicroelectronics provides a decent development environment, including IDE's such as STM32CubeIDE, firmware libraries.
 
 # Nucleo Board
-The Nucleo board is a development board series that is created by the same 
+The Nucleo board is a development board series that is created by STMicroelectronics that uses the STM32 as its microcontroller. There are various NUCLEO boards available such as the NUCLEO-F0, NUCLEO-F3 and the NUCLEO-F4. 
+- ## NUCLEO-F0:
+    1. 
+- ## NUCLEO-F3:
+    1. 
+- ## NUCLEO-F4:
+    1.  
 
 # ARM Cortex-M
 
